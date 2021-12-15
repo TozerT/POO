@@ -13,6 +13,7 @@ public class Trabalho_2 {
         System.out.println("3:Alterar Dados ");
         System.out.println("4:Apagar objetos escolhidos Dados ");
         System.out.println("5:Apagar Dados ");
+        System.out.println("6:Verificar datas ");
         System.out.println("0:Para sair do programa ");
         
         Operações op = new Operações();
